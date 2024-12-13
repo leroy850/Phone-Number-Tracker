@@ -1,8 +1,7 @@
 import phonenumbers
 from myNumber import number
 import folium
-Key = ''
-from phonenumbers import geocoder
+Key = ''5431bba2686644b994a8d3c1fb13e819 from phonenumbers import geocoder
 phonenumbers
 
 sanNumber = phonenumbers.parse(number)
